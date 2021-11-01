@@ -1,3 +1,5 @@
+NOTE: This is a FORK of the popular `todomvc` experiment, with only the `vanilla-es6` sample. All other samples, as well as bloating references (`bower_components`) are deleted.
+
 # ![TodoMVC](media/logo.png)
 
 > Helping you select an MV\* framework
